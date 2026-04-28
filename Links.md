@@ -2,6 +2,26 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-28 16:50 IR
+- 🎵 [Cult To Follow - 10 Seconds From Panic (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%2010%20Seconds%20From%20Panic%20%28Official%20Audio%29.mp3) `3.2MB`
+
+- 🎵 [Cult To Follow - Dead & Gone (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20Dead%20%26%20Gone%20%28Official%20Audio%29.mp3) `3.9MB`
+
+- 🎵 [Cult To Follow - Down (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20Down%20%28Official%20Audio%29.mp3) `3.8MB`
+
+- 🎵 [Cult To Follow - Everything I Never Was (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20Everything%20I%20Never%20Was%20%28Official%20Audio%29.mp3) `4.6MB`
+
+- 🎵 [Cult To Follow - Lies (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20Lies%20%28Official%20Audio%29.mp3) `4.1MB`
+
+- 🎵 [Cult To Follow - Murder Melody (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20Murder%20Melody%20%28Official%20Audio%29.mp3) `4.1MB`
+
+- 🎵 [Cult To Follow - Through With You (Official Audio).mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20Through%20With%20You%20%28Official%20Audio%29.mp3) `3.4MB`
+
+- 🎵 [Cult To Follow - ＂The Inception＂ Available Now trailer.mp3](https://github.com/KrishVias/sandbox/raw/main/dl/Cult%20To%20Follow%20-%20%EF%BC%82The%20Inception%EF%BC%82%20Available%20Now%20trailer.mp3) `1.1MB`
+
+---
+
+
 ### 📅 2026-04-28 13:13 IR
 - 🎬 [Agent Record ｜ Pyrois.mp4](https://github.com/KrishVias/sandbox/raw/main/dl/Agent%20Record%20%EF%BD%9C%20Pyrois.mp4) `1.5MB`
 
