@@ -122,7 +122,7 @@ jobs:
           elif [[ "$QUALITY" == *"360p"* ]]; then
             YTDLP_F="-f bestvideo[ext=mp4][height<=360]+bestaudio[ext=m4a]/best[ext=mp4][height<=360]/best --merge-output-format mp4"
           elif [[ "$QUALITY" == *"Audio"* ]]; then
-            YTDLP_F="-x --audio-format mp3"
+            YTDLP_F="--parse-metadata "album:%(playlist_title)s" -x --audio-format mp3"
           else
             YTDLP_F="--merge-output-format mp4"
           fi
